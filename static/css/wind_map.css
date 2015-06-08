@@ -1,0 +1,8 @@
+#map_canvas{
+    height: 800px;
+    width: 980px;
+}
+
+#map_container{
+    float: left;
+}
